@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/invo-simplex/precache-manifest.0503a4854f47877b840316d0da658573.js"
+  "/invo-simplex/precache-manifest.0cb1eb3ceabf89ad1916977f2fdbb597.js"
 );
 
 self.addEventListener('message', (event) => {

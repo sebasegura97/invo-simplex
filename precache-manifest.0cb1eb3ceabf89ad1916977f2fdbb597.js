@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "640ebccdc938af23283056db4c81f47f",
+    "revision": "d1bc34887fb325a596069a6f79642e3b",
     "url": "/invo-simplex/index.html"
   },
   {
-    "revision": "c6458a7c909db14218e0",
+    "revision": "9932aa8488cca53679f8",
     "url": "/invo-simplex/static/css/main.3c97b726.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invo-simplex/static/js/2.472b106e.chunk.js"
   },
   {
-    "revision": "c6458a7c909db14218e0",
-    "url": "/invo-simplex/static/js/main.ea72d017.chunk.js"
+    "revision": "9932aa8488cca53679f8",
+    "url": "/invo-simplex/static/js/main.f6fa8170.chunk.js"
   },
   {
     "revision": "b2cdc316410cc6f0b44e",

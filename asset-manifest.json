@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/invo-simplex/static/css/main.3c97b726.chunk.css",
-    "main.js": "/invo-simplex/static/js/main.ea72d017.chunk.js",
-    "main.js.map": "/invo-simplex/static/js/main.ea72d017.chunk.js.map",
+    "main.js": "/invo-simplex/static/js/main.f6fa8170.chunk.js",
+    "main.js.map": "/invo-simplex/static/js/main.f6fa8170.chunk.js.map",
     "runtime~main.js": "/invo-simplex/static/js/runtime~main.b11ac85c.js",
     "runtime~main.js.map": "/invo-simplex/static/js/runtime~main.b11ac85c.js.map",
     "static/js/2.472b106e.chunk.js": "/invo-simplex/static/js/2.472b106e.chunk.js",
     "static/js/2.472b106e.chunk.js.map": "/invo-simplex/static/js/2.472b106e.chunk.js.map",
     "index.html": "/invo-simplex/index.html",
-    "precache-manifest.0503a4854f47877b840316d0da658573.js": "/invo-simplex/precache-manifest.0503a4854f47877b840316d0da658573.js",
+    "precache-manifest.0cb1eb3ceabf89ad1916977f2fdbb597.js": "/invo-simplex/precache-manifest.0cb1eb3ceabf89ad1916977f2fdbb597.js",
     "service-worker.js": "/invo-simplex/service-worker.js",
     "static/css/main.3c97b726.chunk.css.map": "/invo-simplex/static/css/main.3c97b726.chunk.css.map"
   }
