@@ -1,0 +1,103 @@
+.steps-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.functionContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.objectiveFunction{
+    font-size: 14pt;
+    display: flex;
+    flex-direction: column;
+}
+
+.coeficientInput{
+    width: 50px;
+    font-size: 16pt;
+    border: none;
+    outline: none;
+    padding: 10px;
+    text-align: right;
+    border-bottom: 1px solid rgb(105, 169, 224);
+}
+
+.variables {
+    font-size: 14pt;
+    margin: 0;
+}
+.variableContainer{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.buttonNext{
+    align-self: flex-end;
+}
+.constraintText{
+    position: relative;
+    z-index: 1;
+}
+
+.constraintViewContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid rgba(105, 169, 224, 0.5);
+    margin-bottom: 10px
+}
+
+
+.constraintViewContainer p {
+    margin: 0
+}
+
+
+.stepSubtitle{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.optmization-type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.optimization-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.optimization-container:hover{
+    cursor: pointer;
+}
+.step2-container{
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inlineButtonsContainer{
+    align-self: flex-end;
+    margin-top: 20px;
+    /* margin-bottom: 10px; */
+}
+
