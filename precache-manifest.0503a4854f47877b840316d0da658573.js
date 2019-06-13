@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48f138a1c812c0dbb0140ec877ac7f6f",
+    "revision": "640ebccdc938af23283056db4c81f47f",
     "url": "/invo-simplex/index.html"
   },
   {
-    "revision": "8b82620baa1c86b184a2",
+    "revision": "c6458a7c909db14218e0",
     "url": "/invo-simplex/static/css/main.3c97b726.chunk.css"
   },
   {
-    "revision": "e2b5ac78f4a55096da8b",
-    "url": "/invo-simplex/static/js/2.10d10230.chunk.js"
+    "revision": "558a6999957baf94e6dd",
+    "url": "/invo-simplex/static/js/2.472b106e.chunk.js"
   },
   {
-    "revision": "8b82620baa1c86b184a2",
-    "url": "/invo-simplex/static/js/main.07509b89.chunk.js"
+    "revision": "c6458a7c909db14218e0",
+    "url": "/invo-simplex/static/js/main.ea72d017.chunk.js"
   },
   {
     "revision": "b2cdc316410cc6f0b44e",
